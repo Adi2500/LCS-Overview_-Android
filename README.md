@@ -5,11 +5,16 @@ For now only NA and EU LCS match starting time as google now card will be writte
 OGN and other Riot Leagues will be added later.
 
 
-Planned: Shortcut to official Riot Stream/Language specific stream
+Planned: Shortcut to official Riot Stream/Language specific stream (via Twitch.tv app)
+
          Match Stats
+
          Player Stats
+
          Team Stats
+
          League Roster
+
          LCK/LPL/LMS/All Star/World Champion Ship support
          
          MAYBE: NA and EU Challenger Series
